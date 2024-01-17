@@ -18,6 +18,7 @@
 ![C#](https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
 ![.Net](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)&nbsp; 
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Studying in this moment:
 ![C#](https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; 
